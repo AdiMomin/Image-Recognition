@@ -1,0 +1,29 @@
+body
+{
+color:brown;
+background: pink;
+}
+
+.heading
+{
+    width: 85%;
+    font-size: 30px;
+    color: red;
+}
+
+.name_of_objects {
+    color:darkgoldenrod;
+}
+
+#camera
+{
+    border: 2px greenyellow;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name,
+#result_object_accuracy
+{
+ color: blueviolet
+}
